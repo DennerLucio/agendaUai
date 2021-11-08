@@ -95,24 +95,24 @@
 
         <!-- Categorias item -->
         <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://d19m59y37dris4.cloudfront.net/university/1-1-1/img/teacher-2.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                <h5 class="mb-0">Reuniões</h5><span class="small text-uppercase text-muted">Saloes,Sitios,</span>
+            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../assets/negocio.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                <h5 class="mb-0">Reuniões</h5><span class="small text-uppercase text-muted">Saloes,Sitios,Salas</span>
                
             </div>
         </div><!-- End -->
 
         <!-- Team item -->
         <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://d19m59y37dris4.cloudfront.net/university/1-1-1/img/teacher-1.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                <h5 class="mb-0">Tom Sunderland</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../assets/fes.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                <h5 class="mb-0">Festas</h5><span class="small text-uppercase text-muted">Sitios,Fazendas</span>
                
             </div>
         </div><!-- End -->
 
         <!-- Team item -->
         <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://d19m59y37dris4.cloudfront.net/university/1-1-1/img/teacher-7.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                <h5 class="mb-0">John Tarly</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="../assets/cinema.png" alt="" width="100"  class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                <h5 class="mb-0">Eventos</h5><span class="small text-uppercase text-muted">Saloes,Teatro</span>
                
             </div>
         </div><!-- End -->
